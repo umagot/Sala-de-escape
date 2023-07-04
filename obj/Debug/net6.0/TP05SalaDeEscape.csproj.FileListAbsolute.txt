@@ -1,0 +1,62 @@
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\bin\Debug\net6.0\appsettings.Development.json
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\bin\Debug\net6.0\appsettings.json
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.staticwebassets.runtime.json
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.exe
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.deps.json
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.runtimeconfig.json
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.dll
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.pdb
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.csproj.AssemblyReference.cache
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.AssemblyInfoInputs.cache
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.AssemblyInfo.cs
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.csproj.CoreCompileInputs.cache
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.MvcApplicationPartsAssemblyInfo.cache
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.RazorAssemblyInfo.cache
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.RazorAssemblyInfo.cs
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets\msbuild.TP05SalaDeEscape.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets\msbuild.build.TP05SalaDeEscape.props
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP05SalaDeEscape.props
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP05SalaDeEscape.props
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets.build.json
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets.development.json
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\scopedcss\bundle\TP05SalaDeEscape.styles.css
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\scopedcss\projectbundle\TP05SalaDeEscape.bundle.scp.css
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.dll
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\refint\TP05SalaDeEscape.dll
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.pdb
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.genruntimeconfig.cache
+Z:\PROGRAMACION2023\TP05SalaDeEscape\TP05SalaDeEscape\obj\Debug\net6.0\ref\TP05SalaDeEscape.dll
+C:\Dana\INFO 2023\TP05SalaDeEscape\bin\Debug\net6.0\appsettings.Development.json
+C:\Dana\INFO 2023\TP05SalaDeEscape\bin\Debug\net6.0\appsettings.json
+C:\Dana\INFO 2023\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.staticwebassets.runtime.json
+C:\Dana\INFO 2023\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.exe
+C:\Dana\INFO 2023\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.deps.json
+C:\Dana\INFO 2023\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.runtimeconfig.json
+C:\Dana\INFO 2023\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.dll
+C:\Dana\INFO 2023\TP05SalaDeEscape\bin\Debug\net6.0\TP05SalaDeEscape.pdb
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.csproj.AssemblyReference.cache
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.AssemblyInfoInputs.cache
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.AssemblyInfo.cs
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.csproj.CoreCompileInputs.cache
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.MvcApplicationPartsAssemblyInfo.cache
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.RazorAssemblyInfo.cache
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.RazorAssemblyInfo.cs
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets\msbuild.TP05SalaDeEscape.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets\msbuild.build.TP05SalaDeEscape.props
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP05SalaDeEscape.props
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP05SalaDeEscape.props
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\scopedcss\bundle\TP05SalaDeEscape.styles.css
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\scopedcss\projectbundle\TP05SalaDeEscape.bundle.scp.css
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.dll
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\refint\TP05SalaDeEscape.dll
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.pdb
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\TP05SalaDeEscape.genruntimeconfig.cache
+C:\Dana\INFO 2023\TP05SalaDeEscape\obj\Debug\net6.0\ref\TP05SalaDeEscape.dll

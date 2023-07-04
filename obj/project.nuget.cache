@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqC53X/PetBKlKUGa+Z6hHUM7yG8HK4mm+d2oy5gXTxbEnrP7i8viOMoQBlcBUb5Oks1fOr8rphH9+c3bqI0hg==",
+  "success": true,
+  "projectFilePath": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\TP05SalaDeEscape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matim\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\matim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\matim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\matim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

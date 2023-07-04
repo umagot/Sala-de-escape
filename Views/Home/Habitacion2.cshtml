@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Habitacion2";
+}
+<h3>Bienvenido a la habitación 2!</h3>
+<p>En esta habitación tendrá que,  mediante estas tres fotos, adivinar quien es el auto de ,os tres libros que representan las mismas. Suerte!!</p>
+<div>
+<img src = "/Imagenes/adiv.JPG"  />
+<img src = "/Imagenes/adiv2.JPG" />
+<img src = "/Imagenes/adiv3.JPG" />
+</div>
+<button onclick="alert('Pista: Fue un escritor, poeta, crítico y periodista estadounidense nacido en Boston en 1809 y fallecido en Baltimore en 1849. Fue uno de los mejores cuentistas de todos los tiempos y es reconocido como uno de los maestros universales del relato corto y por ser el predecesor de la novela policíaca moderna. Sus obras son conocidas por combinar lo macabro con la belleza y la poesía.')"> Pista </button>.
+<form action='@Url.Action("Habitacion")'>
+    Clave <input type = "text" name = "Clave" required>
+    <input type = "hidden" name = "Sala" value = 2>
+    <input type = "submit" value="submit">
+</form>
+@ViewBag.Error

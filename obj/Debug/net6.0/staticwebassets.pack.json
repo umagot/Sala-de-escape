@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP05SalaDeEscape.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP05SalaDeEscape.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\Imagenes\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Imagenes\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\Imagenes\\adiv.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\adiv.JPG"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\Imagenes\\adiv2.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\adiv2.JPG"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\Imagenes\\adiv3.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\adiv3.JPG"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\Imagenes\\escape1.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\escape1.jpg"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\Imagenes\\escape2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\escape2.jpg"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\Imagenes\\escape3.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\escape3.jpg"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\Imagenes\\umaydana.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\umaydana.jpg"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\font\\Another Danger Slanted - Demo.otf",
+      "PackagePath": "staticwebassets\\font\\Another Danger Slanted - Demo.otf"
+    },
+    {
+      "Id": "C:\\Dana\\INFO 2023\\TP05SalaDeEscape\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TP05SalaDeEscape.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TP05SalaDeEscape.props",
+      "PackagePath": "build\\TP05SalaDeEscape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TP05SalaDeEscape.props",
+      "PackagePath": "buildMultiTargeting\\TP05SalaDeEscape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TP05SalaDeEscape.props",
+      "PackagePath": "buildTransitive\\TP05SalaDeEscape.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

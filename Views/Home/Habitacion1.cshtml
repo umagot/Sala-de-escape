@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Habitacion1";
+}
+<h1>Historia misteriosa</h1>
+<p>En esta primera habitación hay que ver el video, responder las consignas,  y finalmente responder A, B o C (dependiendo de la respuesta de la pregunta)</p>
+<iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/7213793-cuento_de_terror.html"></iframe>
+<form action='@Url.Action("Habitacion")'>
+    Clave <input type = "text" name = "Clave" required>
+    <input type = "hidden" name = "Sala" value = 1>
+    <input type = "submit" value="submit">
+</form>
+@ViewBag.Error

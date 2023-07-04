@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Habitacion3";
+}
+<h3>Llegaste a la habitación 3.</h3>
+<p>En esta habitación verá un pequeño video y deberá detectar quien es el verdadero asesino... exitos!</p>
+<header>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FHkmXTP0vyA?clip=Ugkx9Rm18_dcxgWeu3YT8NwqQgxBy-8n8AOX&amp;clipt=ELiUARiglgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</header>
+<button onclick="alert('Pista: Está lloviendo')"> Pista </button>
+<form action='@Url.Action("Habitacion")'>
+    Clave <input type = "text" name = "Clave" required>
+    <input type = "hidden" name = "Sala" value = 3>
+    <input type = "submit" value="submit">
+</form>
+@ViewBag.Error
+

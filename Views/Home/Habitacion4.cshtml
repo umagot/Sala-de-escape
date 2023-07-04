@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Habitacion4";
+}
+<h3>Sobrevivio hasta la habitación 4... veremos cuanto mas podras</h3>
+<p>En esta siguiente habitación tendrá que resolver el acertijo... que salga el mejor!</p>
+<h4>Soy la sombra que te sigue, la que siempre está detrás de ti. No importa cuánto corras, no podrás escapar de mí. ¿Qué soy?</h4>
+<button onclick="alert('Pista : Soy una emoción')"> Pista </button>.
+<form action='@Url.Action("Habitacion")'>
+    Clave <input type = "text" name = "Clave" required>
+    <input type = "hidden" name = "Sala" value = 4>
+    <input type = "submit" value="submit">
+</form>
+@ViewBag.Error
